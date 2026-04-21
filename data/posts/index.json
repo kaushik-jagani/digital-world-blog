@@ -1,5 +1,17 @@
 [
   {
+    "id": 2,
+    "slug": "ip-address-and-domain-name-guide",
+    "title": "IP Address vs Domain Name: How the Internet Really Works (Beginner Guide)",
+    "author": "Global Info Nest Team",
+    "date": "2026-04-21",
+    "readTime": "10 min read",
+    "category": "Technology",
+    "excerpt": "Learn the difference between IP addresses and domain names, how DNS works, and why both are essential for the internet in this simple beginner-friendly guide.",
+    "coverImage": "/assets/images/posts/ip-address-and-domain-name-guide/cover.jpg",
+    "featured": true
+  },
+  {
     "id": 1,
     "slug": "domain-name-research-seo-branding-guide-2026",
     "title": "Domain Name Research: Complete SEO & Branding Guide (2026)",
